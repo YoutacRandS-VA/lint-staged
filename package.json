@@ -41,7 +41,7 @@
     "debug": "4.3.4",
     "execa": "8.0.1",
     "lilconfig": "2.1.0",
-    "listr2": "6.6.1",
+    "listr2": "7.0.1",
     "micromatch": "4.0.5",
     "pidtree": "0.6.0",
     "string-argv": "0.3.2",
